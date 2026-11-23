@@ -39,10 +39,10 @@ Today, my work bridges both worlds:
 | :--- | :--- | :--- |
 | [**gemini-context-engineering**](https://github.com/Ashiq3/gemini-context-engineering) | AI / Agentic Systems | Open-source context engineering template for Google Gemini (`12+` stars) · `Agentic AI`, `Gemini API` |
 | [**Autopply**](https://github.com/Ashiq3/Autopply) | AI Workflow Automation | End-to-end automated job discovery, tailored CV generation, and application pipeline · `TypeScript`, `Vite`, `Node.js` |
+| [**Ai-Learning**](https://github.com/Ashiq3/Ai-Learning) | AI Backend Curriculum | **AI Backend Master Course** — Interactive 20-class AI backend curriculum & visual-first slide deck · `React`, `TypeScript`, `Gemini API`, `Express` |
 | [**Selenium-Automation-Code**](https://github.com/Ashiq3/Selenium-Automation-Code) | Data Extraction & Automation | Production-ready CLI scraper for Google autocomplete keyword intelligence to Excel · `Python`, `Selenium`, `OpenPyXL` |
 | [**ReceiptManager**](https://github.com/Ashiq3/ReceiptManager) | AI + Full-Stack | Receipt and expense management platform with AI-assisted extraction · `JavaScript`, `Supabase`, `Docker` |
 | [**ReceiptDigital**](https://github.com/Ashiq3/ReceiptDigital) | Web App & Testing | Modern digital receipt platform with Playwright E2E coverage ([Live Demo](https://receipt-digital.vercel.app)) · `Next.js`, `TypeScript`, `Tailwind CSS` |
-| [**Network-Design-in-Cisco-packet-tracer**](https://github.com/Ashiq3/Network-Design-in-Cisco-packet-tracer) | Educational / Coursework | Practical enterprise network topology labs (`28+` stars, `9` forks) · `Networking`, `Cisco Packet Tracer` |
 
 ---
 
